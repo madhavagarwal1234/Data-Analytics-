@@ -49,4 +49,5 @@ The **FNP Sales Analysis Project** leverages the full potential of Microsoft Exc
   - Dynamic Charts & Graphs
   - Slicers & Filters
   - Advanced Formulas and Functions
+
 ![image](https://github.com/user-attachments/assets/a0fd43a8-b5f8-4395-810e-13ca3e535850)
